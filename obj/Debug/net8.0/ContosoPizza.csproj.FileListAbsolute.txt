@@ -30,3 +30,4 @@ C:\Users\infra\Documents\BYU-Idaho Fall 2024\CSE325\ContosoPizza\obj\Debug\net8.
 C:\Users\infra\Documents\BYU-Idaho Fall 2024\CSE325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\infra\Documents\BYU-Idaho Fall 2024\CSE325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\infra\Documents\BYU-Idaho Fall 2024\CSE325\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\infra\Documents\BYU-Idaho Fall 2024\CSE325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
